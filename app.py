@@ -5,9 +5,9 @@ import mysql.connector
 
 # MySQL config
 MYSQL_CONFIG = {
-    'host': 'holistique-middleware.c9wdjmzy25ra.ap-south-1.rds.amazonaws.com',
+    'host': '',
     'user': 'Chandan',
-    'password': 'Chandan@#4321',
+    'password': '',
     'database': 'email_validator_app'
 }
 
